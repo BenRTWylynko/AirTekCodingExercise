@@ -1,0 +1,6 @@
+C:\Users\Ben\Downloads\AirTekCodingExerciseApp\AirTekCodingExercise.exe
+C:\Users\Ben\Downloads\AirTekCodingExerciseApp\AirTekCodingExercise.dll
+C:\Users\Ben\Downloads\AirTekCodingExerciseApp\AirTekCodingExercise.deps.json
+C:\Users\Ben\Downloads\AirTekCodingExerciseApp\AirTekCodingExercise.runtimeconfig.json
+C:\Users\Ben\Downloads\AirTekCodingExerciseApp\AirTekCodingExercise.pdb
+C:\Users\Ben\Downloads\AirTekCodingExerciseApp\Newtonsoft.Json.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9n9RvJtLwYRjLyeuxPdMgq7TP8NVQeKqwMwxTii9ojhl/HrSb50Ogq57JtEfAuKufvbTaG8EQ/rWINMUxI41iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ben\\source\\repos\\AirTekCodingExercise\\AirTekCodingExercise\\AirTekCodingExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ben\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

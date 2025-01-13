@@ -1,0 +1,17 @@
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\bin\Debug\net6.0\AirTekCodingExercise.exe
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\bin\Debug\net6.0\AirTekCodingExercise.deps.json
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\bin\Debug\net6.0\AirTekCodingExercise.runtimeconfig.json
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\bin\Debug\net6.0\AirTekCodingExercise.dll
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\bin\Debug\net6.0\AirTekCodingExercise.pdb
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.AssemblyInfoInputs.cache
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.AssemblyInfo.cs
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.csproj.CopyComplete
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.dll
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\refint\AirTekCodingExercise.dll
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.pdb
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\AirTekCodingExercise.genruntimeconfig.cache
+C:\Users\Ben\source\repos\AirTekCodingExercise\AirTekCodingExercise\obj\Debug\net6.0\ref\AirTekCodingExercise.dll
